@@ -1,0 +1,6 @@
+C:\Users\johnny.abouhaidar\source\repos\VPNconnectionStatus\VPNconnectionStatus\bin\Debug\VPNconnectionStatus.dll
+C:\Users\johnny.abouhaidar\source\repos\VPNconnectionStatus\VPNconnectionStatus\bin\Debug\VPNconnectionStatus.pdb
+C:\Users\johnny.abouhaidar\source\repos\VPNconnectionStatus\VPNconnectionStatus\obj\Debug\VPNconnectionStatus.csprojAssemblyReference.cache
+C:\Users\johnny.abouhaidar\source\repos\VPNconnectionStatus\VPNconnectionStatus\obj\Debug\VPNconnectionStatus.csproj.CoreCompileInputs.cache
+C:\Users\johnny.abouhaidar\source\repos\VPNconnectionStatus\VPNconnectionStatus\obj\Debug\VPNconnectionStatus.dll
+C:\Users\johnny.abouhaidar\source\repos\VPNconnectionStatus\VPNconnectionStatus\obj\Debug\VPNconnectionStatus.pdb
